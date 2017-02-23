@@ -8,7 +8,7 @@ import (
 	"testing"
 
 	"github.com/gorilla/context"
-	"github.com/nmerouze/stack/jsonapi"
+	"github.com/marceloaguero/stack/jsonapi"
 )
 
 func TestWrite(t *testing.T) {

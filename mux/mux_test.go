@@ -6,7 +6,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/nmerouze/stack/mux"
+	"github.com/marceloaguero/stack/mux"
 )
 
 func testMiddleware(h http.Handler) http.Handler {

@@ -9,7 +9,7 @@ import (
 
 	"github.com/gorilla/context"
 	"github.com/justinas/alice"
-	"github.com/nmerouze/stack/mux"
+	"github.com/marceloaguero/stack/mux"
 )
 
 // New() returns a new mux with handlers useful to create JSON APIs.
